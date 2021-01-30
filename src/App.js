@@ -27,7 +27,7 @@ function App() {
               classNames="fade">
                 <Switch>
                   <Route exact path="/"><Home/></Route>
-                  <Route path="/portfolio"><PortFolio/></Route>
+                  <Route path="/PortFolio"><PortFolio/></Route>
                   <Route path="/description"><자기소개/></Route>
                 </Switch>
               </CSSTransition>
